@@ -12,7 +12,7 @@ Building production AI and backend systems — LLM orchestration pipelines, even
 - 🔭 Working on LLM cost optimization, conversational memory systems, and Kafka-based NLP pipelines in production
 - 💬 Ask me about **Java · Spring Boot · Kafka · LangGraph · Distributed Systems · Elasticsearch**
 - 📫 **gaurangkwork@gmail.com**
-- 📄 [Resume](https://github.com/fadebeyond/fadebeyond/raw/main/resume.pdf)
+- 📄 [Resume](https://github.com/fadebeyond/fadebeyond/raw/main/Gaurang_Java_3_YOE.pdf)
 
 ---
 
